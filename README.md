@@ -1,2 +1,4 @@
 # Number-Guessing-Game
- Game: The user guesses at a four digit number for points
+In the game, a random 4 digit winning number is generated. 
+The user submits a 4 digit guess and receives points based
+on how many digits match.  
